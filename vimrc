@@ -2,6 +2,9 @@ filetype on
 syntax on
 set number
 
+set path+=**
+set wildmenu
+
 let mapleader=" "
 map <leader>s :source ~/.vimrc<CR> 
 
