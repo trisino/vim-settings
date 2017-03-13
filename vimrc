@@ -1,3 +1,6 @@
 filetype on
 syntax on
-colorscheme solarized
+set number
+
+let mapleader=" "
+map <leader>s :source ~/.vimrc<CR> 
