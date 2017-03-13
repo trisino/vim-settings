@@ -20,4 +20,4 @@ set expandtab
 set smartindent
 set autoindent
 
-
+command! MakeTags !ctags -R .
